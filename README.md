@@ -15,7 +15,7 @@ Project is created with MERN stack:
 * Express
 
 ## Setup
-To see the user interface through browser 
+To see the user interface through browser https://yumyumshopapp.herokuapp.com/
 
 To run this project, install it locally using npm:
 
