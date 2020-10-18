@@ -15,17 +15,10 @@ Project is created with MERN stack:
 * Express
 
 ## Setup
-To see the user interface through browser https://timetable-app-hls.herokuapp.com/
+To see the user interface through browser 
 
 To run this project, install it locally using npm:
 
 ```
 $ cd ../yumyum-shop
 $ npm run dev
-
-or you can run the Docker image from the project
-$ cd ../timetable-app
-$ docker image build -t react:timetable .
-$ docker run -it -p 3000:3000 react:timetable /bin/bash
-$ root@d007cc6e1a27:/app# npm start
- 
